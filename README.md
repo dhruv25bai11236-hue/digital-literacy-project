@@ -1,4 +1,4 @@
-**Project Overview**
+->**Project Overview**
 
 In today’s world, technology is a major part of our daily lives, especially for students. From making presentations to collaborating online and creating digital profiles, we use various digital tools almost every day. Because of this constant exposure, many students believe they are digitally literate.
 
@@ -7,7 +7,8 @@ However, this project explores an important idea — using digital tools is not 
 The main aim of this project is to understand how students interact with digital platforms and whether they are using them responsibly, ethically, and thoughtfully.
 
 
-**Objectives of the Project**
+
+->**Objectives of the Project**
 
 1.To understand the difference between digital participation and digital literacy.
 
@@ -20,12 +21,14 @@ The main aim of this project is to understand how students interact with digital
 5.To develop awareness about cyber safety and digital behavior.
 
 
-**Key Learnings**
+
+->**Key Learnings**
 
 While working on this project, I realized that digital literacy is much deeper than I initially thought. It is not just about knowing how to use tools like Canva or Google Docs, but also about understanding their impact.
 
 
-**Some important things I learned are:**
+
+->**Some important things I learned are:**
 
 1.Being active online does not always mean being aware.
 
@@ -40,7 +43,8 @@ While working on this project, I realized that digital literacy is much deeper t
 6.Digital Literacy vs Digital Participation.
 
 
-**One of the most important ideas in this project is the difference between:**
+
+->**One of the most important ideas in this project is the difference between:**
 
 1.Digital Participation → Using tools, posting content, working online
 
@@ -49,12 +53,14 @@ While working on this project, I realized that digital literacy is much deeper t
 3.This project helped me understand that most students are digitally active, but not always digitally responsible.
 
 
-**Cyber Awareness**
+
+->**Cyber Awareness**
 
 Another key part of this project is understanding cyber risks. Even when students are aware of threats like phishing or scams, they may still fall into them due to urgency or carelessness.
 
 
-**This shows that:**
+
+->**This shows that:**
 
 1.Awareness alone is not enough.
 
@@ -68,7 +74,8 @@ Another key part of this project is understanding cyber risks. Even when student
 Digital tools have made collaboration easier, but they also create challenges. Sometimes, not all group members contribute equally, and the line between helping and copying becomes unclear.
 
 
-**This project made me realize that:**
+
+->**This project made me realize that:**
 
 1.Collaboration should support learning, not replace it.
 
@@ -82,7 +89,8 @@ Digital tools have made collaboration easier, but they also create challenges. S
 Communication is an important part of digital literacy. Even though students know how to write formal messages, they often use informal language out of habit.
 
 
-**I learned that:**
+
+->**I learned that:**
 
 1.Communication reflects personality and seriousness.
 
