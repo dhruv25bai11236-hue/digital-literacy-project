@@ -93,10 +93,6 @@ Avoiding shortcuts in work
 
 One habit I want to improve is to slow down and think before responding or clicking on anything online, especially when something feels urgent.
 
-🔗 **Project Links**
-
-(You can add your main Google Drive / Form link here if needed)
-👉 View Project Work
 
 📷 **Screenshots / Output**
 
